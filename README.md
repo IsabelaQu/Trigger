@@ -14,8 +14,10 @@
 > REMOVA O SCRIPT DO PRIMEIRO EXEMPLO E INSIRA O CÓDIGO NA BRANCH DO EXEMPLO DOIS;
 
 ## Descrição da Atividade 📓
+No primeiro exemplo, foi criado um banco de dados chamado "Solicitações" para gerenciar pedidos de clientes. Foi estabelecida uma tabela chamada "Pedidos", onde são registrados os detalhes de cada pedido, incluindo um identificador único, a data do pedido e o nome do cliente. Além disso, uma trigger foi implementada para garantir que a data do pedido seja automaticamente registrada quando um novo registro é adicionado à tabela de pedidos. Dados de exemplo foram inseridos na tabela para ilustrar o funcionamento do sistema. Após isso, uma consulta foi realizada para verificar se os dados foram corretamente inseridos.
 
 ## Modelo Logico 📈
+
 ### Exemplo 1
 ![image](https://github.com/IsabelaQu/Trigger/assets/124175141/2f6f09d8-a3b1-47c7-8bce-96fb1d5a914b)
 
