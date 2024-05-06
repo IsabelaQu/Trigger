@@ -19,6 +19,8 @@
 ### Exemplo 1
 ![image](https://github.com/IsabelaQu/Trigger/assets/124175141/2f6f09d8-a3b1-47c7-8bce-96fb1d5a914b)
 
+### Exemplo 2
+![image](https://github.com/IsabelaQu/Trigger/assets/124175141/bd63f0ba-72e8-4b6a-86bd-f42c257e61b8)
 
 ## Pré-requisitos
 Sql Online 
