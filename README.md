@@ -22,6 +22,7 @@ No segundo exemplo, foi criado um banco de dados denominado "Locadora", destinad
 
 ## Modelo Logico 📈
 ![image](https://github.com/IsabelaQu/Trigger/assets/124175141/d5d9cead-95af-4f8e-9e40-00087fd49da1)
+![image](https://github.com/IsabelaQu/Trigger/assets/124175141/9524f949-d766-4e7f-abe8-5d942c3e6683)
 
 ### Exemplo 1
 ![image](https://github.com/IsabelaQu/Trigger/assets/124175141/2f6f09d8-a3b1-47c7-8bce-96fb1d5a914b)
