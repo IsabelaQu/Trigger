@@ -1,4 +1,4 @@
-# Exemplos (TRIGGERS)
+# Exemplo Dois (TRIGGERS)
 > REPRODUZA OS DOIS EXEMPLOS DADOS NO MYSQL WORKBENCH;
 >
 > EXECUTE AS ETAPAS E VERIFIQUE SEUS RESULTADOS;
@@ -14,14 +14,19 @@
 > REMOVA O SCRIPT DO PRIMEIRO EXEMPLO E INSIRA O CÓDIGO NA BRANCH DO EXEMPLO DOIS;
 
 ## Descrição da Atividade 📓
+### Exemplo 2
+No segundo exemplo, foi criado um banco de dados denominado "Locadora", destinado a gerenciar informações sobre filmes. Foi elaborada uma tabela chamada "Filmes" para armazenar dados como título e duração dos filmes. Uma trigger foi implementada para verificar se a duração do filme é válida, garantindo que se o valor for negativo, seja ajustado para nulo. Em seguida, dados fictícios foram inseridos na tabela para representar diferentes filmes e suas durações. Adicionalmente, foi criada uma tabela chamada "Log_deletions" para registrar exclusões de registros da tabela "Filmes", com informações como título, data e usuário que realizou a exclusão. Uma trigger foi configurada para inserir automaticamente um registro nessa tabela de log toda vez que um registro é excluído da tabela de filmes. Por fim, foram realizadas exclusões de registros na tabela de filmes para testar a trigger de log de exclusões, e uma consulta foi feita na tabela de log para verificar os registros registrados.
+
 
 ## Modelo Logico 📈
-### Exemplo 1
-![image](https://github.com/IsabelaQu/Trigger/assets/124175141/2f6f09d8-a3b1-47c7-8bce-96fb1d5a914b)
+![image](https://github.com/IsabelaQu/Trigger/assets/124175141/9524f949-d766-4e7f-abe8-5d942c3e6683)
+
+### Exemplo 2
+![image](https://github.com/IsabelaQu/Trigger/assets/124175141/bd63f0ba-72e8-4b6a-86bd-f42c257e61b8)
 
 
 ## Pré-requisitos
-Sql Online 
+My SQL 
 |---|
 
 <br/>
